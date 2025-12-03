@@ -1,0 +1,16 @@
+{
+    "name": "simple-express-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js Express app with two endpoints",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "express",
+      "node"
+    ],
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
