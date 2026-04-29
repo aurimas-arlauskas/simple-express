@@ -20,7 +20,6 @@ app.listen(PORT, () => {
 
 
 const client = new MongoClient(process.env.MONGODB_URI);
-console.log(process.env.MONGODB_URI);
 
 // Test the connection
 client.connect()
